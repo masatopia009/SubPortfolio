@@ -5,6 +5,8 @@
 プログラミングを始めてから約1年ほど経ったときに完成したマインスイーパです。  
 講義の最後にある自由課題に向けてコツコツ作ったものです。  
 今見返すとかなり読みにくいですが、努力は伝わるのではないでしょうか。  
+<img src="https://github.com/masatopia009/SubPortfolio/blob/master/Images/Mine_Title.png?raw=true" width="300">
+<img src="https://github.com/masatopia009/SubPortfolio/blob/master/Images/Mine_Game.png?raw=true" width="300">
 ### なぜ作ったか
 過去にテトリスを作った学生が居たという話を聞き  
 闘争心が湧いたためです。  
